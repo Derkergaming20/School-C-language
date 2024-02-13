@@ -1,4 +1,8 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
+ 
  int a = 5, b = 6, c = 5, d = 1; 
  int x; 
  main() 
@@ -11,3 +15,5 @@
  
  return 0; 
  } 
+ 
+ //TINGAL, DEXTER PAUL D.//

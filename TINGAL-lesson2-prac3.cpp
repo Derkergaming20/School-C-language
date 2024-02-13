@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h> 
 
 main(){
@@ -19,3 +22,5 @@ printf("\nThe value of sum = %d\nThe value of letter = %c\nThe value of money = 
 
 return 0;
 }
+
+//TINGAL, DEXTER PAUL D.//

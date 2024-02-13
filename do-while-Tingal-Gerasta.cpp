@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
 
 int main()
@@ -12,3 +15,5 @@ while (x <= 25);
 
 return 0;	
 }
+
+//TINGAL, DEXTER PAUL D.//

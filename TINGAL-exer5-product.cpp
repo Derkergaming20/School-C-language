@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
 
 int main(){
@@ -16,3 +19,5 @@ printf("The product is: %d", product);
 
 return 0;
 }
+
+//TINGAL, DEXTER PAUL D.//

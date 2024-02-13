@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h> 
 #include <conio.h> 
 main() 
@@ -17,3 +20,5 @@ printf("value of pi = %e\n", pi );
 getch(); 
 return 0; 
 } 
+
+//TINGAL, DEXTER PAUL D.//

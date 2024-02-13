@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
 
 float reg_fare, stud, sen;
@@ -33,3 +36,5 @@ int main() {
 
     return 0;
 }
+
+//TINGAL, DEXTER PAUL D.//

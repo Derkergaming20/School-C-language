@@ -1,4 +1,7 @@
-	#include <stdio.h>
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
+#include <stdio.h>
 	
 	int main(){
 		int temp, i, numb1, numb2, numb3, numb4, numb5;
@@ -47,3 +50,5 @@
 		
 		return 0;
 	}
+	
+	//TINGAL, DEXTER PAUL D.//

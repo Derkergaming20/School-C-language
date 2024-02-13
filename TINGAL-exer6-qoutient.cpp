@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
 
 int main(){
@@ -17,3 +20,5 @@ printf("The quotient is: %.2f", quotient);
 
 return 0;
 }
+
+//TINGAL, DEXTER PAUL D.//

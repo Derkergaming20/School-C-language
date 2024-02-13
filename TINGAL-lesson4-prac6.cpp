@@ -1,3 +1,6 @@
+/*Dexter Paul D. Tingal*/
+//DO NOT COPY//
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -84,3 +87,5 @@ int main() {
 
     return 0;
 }
+
+//TINGAL,DEXTER PAUL D.//
